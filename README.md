@@ -38,7 +38,7 @@
   <dependency>
     <groupId>com.securbase.biomix_animal.client</groupId>
     <artifactId>biomix_animal_api</artifactId>
-    <version>20250319-151929_0.1.0</version>
+    <version>20250325-150849_0.1.0</version>
   </dependency>
 
 </dependencies>
