@@ -4,7 +4,7 @@
 <repositories>
   <repository>
     <id>mvn-repo</id>
-    <url>https://raw.githubusercontent.com/danieldaf/mvn-repo/master</url>
+    <url>https://raw.githubusercontent.com/securbase/mvn-repo/master</url>
     <releases>
       <enabled>true</enabled>
     </releases>
@@ -24,5 +24,23 @@
     <artifactId>sobio-api-client</artifactId>
     <version>${sobio-api-client.version}</version>
   </dependency>
+
+  ...
+
+  <dependency>
+    <groupId>com.securbase.biomix.blacklist</groupId>
+    <artifactId>biomix-blacklist-api-client</artifactId>
+    <version>20240925.2820f8c</version>
+  </dependency>
+
+  ...
+
+  <dependency>
+    <groupId>com.securbase.biomix_animal.client</groupId>
+    <artifactId>biomix_animal_api</artifactId>
+    <version>20250319-151929_0.1.0</version>
+  </dependency>
+
 </dependencies>
+
 ```
