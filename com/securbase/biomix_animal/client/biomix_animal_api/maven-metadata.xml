@@ -3,7 +3,7 @@
   <groupId>com.securbase.biomix_animal.client</groupId>
   <artifactId>biomix_animal_api</artifactId>
   <versioning>
-    <release>20250409-165636_0.1.0</release>
+    <release>20250410-105635_0.1.0</release>
     <versions>
       <version>20250319-151929_0.1.0</version>
       <version>20250325-150849_0.1.0</version>
@@ -12,7 +12,8 @@
       <version>20250401-150721_0.1.0</version>
       <version>20250409-150436_0.1.0</version>
       <version>20250409-165636_0.1.0</version>
+      <version>20250410-105635_0.1.0</version>
     </versions>
-    <lastUpdated>20250409195931</lastUpdated>
+    <lastUpdated>20250410140018</lastUpdated>
   </versioning>
 </metadata>
